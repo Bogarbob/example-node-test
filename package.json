@@ -1,0 +1,19 @@
+{
+  "name": "nodecasts-packages",
+  "version": "1.0.0",
+  "description": "Test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bogarbob/example-node-test.git"
+  },
+  "author": "Bob\u001b[D\u001b[D\u001b[DBogar Bob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bogarbob/example-node-test/issues"
+  },
+  "homepage": "https://github.com/Bogarbob/example-node-test#readme"
+}
